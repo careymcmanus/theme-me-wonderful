@@ -1,0 +1,15 @@
+{
+    "name": "Editor",
+    "background": "black",
+    "activeBackground": "gray",
+    "border": "darkGray",
+    "activeBorder": "gray",
+    "shadow": "darkGray",
+    "icon": "orange",
+    "highlight": "yellow",
+    "activeHighlight": "orange",
+    "prominent": "#919191",
+    "selection": "darkGray",
+    "text": "white",
+    "error": "red"
+}

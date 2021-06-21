@@ -1,0 +1,5 @@
+{
+    "colours": "./colours/dark.json",
+    "editor": "./colours/editor.json",
+    "text": "./colours/text.json"
+}

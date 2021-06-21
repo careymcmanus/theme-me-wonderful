@@ -1,0 +1,39 @@
+{
+    "colour": {
+        "red": "#d32f2f",
+        "pink": "#F48FB1",
+        "lightpurple": "#BA68C8",
+        "purple": "#AE81FF",
+        "deeppurple": "#311B92",
+        "indigo": "1A237E",
+        "blue": "#1565c0",
+        "lightblue": "#81D4FA",
+        "cyan": "#80DEEA",
+        "teal": "#80CBC4",
+        "green": "#7CB342",
+        "lime": "#CDDC39",
+        "yellow": "#FFEE58",
+        "amber": "#FF8F00",
+        "orange": "#FFAF00",
+        "deeporange": "#BF360C",
+        "brown": "#4E342E",
+        "black": "#050505",
+        "white": "#E8E6E1",
+        "lightgreen": "#C5E1A5",
+        "magenta": "#E91E63",
+        "scale": {
+            "gray": [
+                "#FAFAFA",
+                "#F5F5F5",
+                "#EEEEEE",
+                "#E0E0E0",
+                "#BDBDBD",
+                "#9E9E9E",
+                "#757575",
+                "#616161",
+                "#424242",
+                "#212121"
+            ]
+        }
+    }
+}

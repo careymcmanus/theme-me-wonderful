@@ -1,0 +1,18 @@
+{
+    "name": "Text",
+    "base": "blue",
+    "lightBase": "lightBlue",
+    "primary": "white",
+    "lightPrimary": "white",
+    "secondary": "orange",
+    "lightSecondary": "yellow",
+    "tertiary": "purple",
+    "lightTertiary": "lightPurple",
+    "alternate": "magenta",
+    "lightAlternate": "pink",
+    "lightComment": "lightGreen",
+    "darkComment": "darkGreen",
+    "error": "red",
+    "warning": "darkOrange",
+    "info": "blue"
+}

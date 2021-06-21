@@ -1,0 +1,16 @@
+{
+    "fonts": [
+        {
+            "id": "Fira Code",
+            "src": [
+                {
+                    "path": "./FiraCode-Regular.woff2",
+                    "format": "woff2"
+                }
+            ],
+            "weight": "normal",
+            "style": "normal",
+            "size": "100%"
+        }
+    ]
+}
